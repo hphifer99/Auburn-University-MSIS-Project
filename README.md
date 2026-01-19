@@ -1,9 +1,17 @@
-# Privacy-First Local Home Surveillance System  
-**MSIS Capstone Project – Hayden Phifer**
+# Privacy-First Local Home Surveillance System
+MSIS Capstone Project – Hayden Phifer
 
 This repository contains the final report, architecture documentation, and presentation materials for my Master of Science in Information Systems Management capstone project.
 
 The project designs and implements a privacy-first home surveillance system that eliminates reliance on vendor cloud infrastructure while preserving secure remote monitoring, operational reliability, and full data ownership.
+
+---
+
+## Quick Links
+- Report (PDF): [Masters Capstone Project.pdf](./Report/Masters%20Capstone%20Project.pdf)
+- Slides (PDF preview, no videos): [Masters Capstone PowerPoint Preview.pdf](./Presentation/Masters%20Capstone%20PowerPoint%20Preview.pdf)
+- Slides (PPTX full): [Masters Capstone PowerPoint Full.pptx](./Presentation/Masters%20Capstone%20PowerPoint%20Full.pptx)
+- Architecture Diagram: [Privacy-First Surveillance Architecture](./Diagrams/Architecture%20Diagram.png)
 
 ---
 
@@ -72,12 +80,12 @@ Firewall logging and traffic inspection were used to verify that outbound camera
 ## Disclaimer
 
 This repository contains academic project documentation only. It does not provide a production-ready surveillance product or installation scripts. Network addresses, credentials, and identifying details have been removed or anonymized.   
-AI was used to help draft the report, draft this README file, and assist with conducting some of the research for the project.
+AI-assisted drafting was used for writing support and research support; all design decisions, implementation, and validation reflect my work.
 
 ---
 
 ## Author
 
 Hayden Phifer  
-Master of Science in Information Systems Management, Graduate Certificate Cybersecurity  
+Master of Science in Information Systems Management, Graduate Certificate Cybersecurity   
 Project focus areas: cybersecurity, network security, privacy-preserving systems
