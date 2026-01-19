@@ -67,3 +67,16 @@ Firewall logging and traffic inspection were used to verify that outbound camera
 - Long-running application tuning and failure recovery  
 - Privacy-preserving system design  
 
+---
+
+## Disclaimer
+
+This repository contains academic project documentation only. It does not provide a production-ready surveillance product or installation scripts. Network addresses, credentials, and identifying details have been removed or anonymized.
+
+---
+
+## Author
+
+Hayden Phifer  
+Master of Science in Information Systems Management, Graduate Certificate Cybersecurity
+Project focus areas: cybersecurity, network security, privacy-preserving systems
