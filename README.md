@@ -71,7 +71,8 @@ Firewall logging and traffic inspection were used to verify that outbound camera
 
 ## Disclaimer
 
-This repository contains academic project documentation only. It does not provide a production-ready surveillance product or installation scripts. Network addresses, credentials, and identifying details have been removed or anonymized.
+This repository contains academic project documentation only. It does not provide a production-ready surveillance product or installation scripts. Network addresses, credentials, and identifying details have been removed or anonymized. 
+
 AI was used to help draft the report, draft this README file, and conduct some research for the project.
 
 ---
