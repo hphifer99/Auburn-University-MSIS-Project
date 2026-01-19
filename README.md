@@ -1,5 +1,7 @@
 # Privacy-First Local Home Surveillance System
-MSIS Capstone Project – Hayden Phifer
+MSIS Capstone Project - Hayden Phifer
+
+[Privacy-First Surveillance Architecture](./Diagrams/Architecture%20Diagram.png)
 
 This repository contains the final report, architecture documentation, and presentation materials for my Master of Science in Information Systems Management capstone project.
 
