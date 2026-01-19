@@ -8,10 +8,10 @@ The project designs and implements a privacy-first home surveillance system that
 ---
 
 ## Quick Links
-- Report (PDF): [Masters Capstone Project.pdf](./report/Masters%20Capstone%20Project.pdf)
-- Slides (PDF preview, no videos): [Masters Capstone PowerPoint Preview.pdf](./presentation/Masters%20Capstone%20PowerPoint%20Preview.pdf)
-- Slides (PPTX full): [Masters Capstone PowerPoint Full.pptx](./presentation/Masters%20Capstone%20PowerPoint%20Full.pptx)
-- Architecture Diagram: [Privacy-First Surveillance Architecture](./diagrams/Architecture%20Diagram.png)
+- Report (PDF): [Masters Capstone Project.pdf](./Report/Masters%20Capstone%20Project.pdf)
+- Slides (PDF preview, no videos): [Masters Capstone PowerPoint Preview.pdf](./Presentation/Masters%20Capstone%20PowerPoint%20Preview.pdf)
+- Slides (PPTX full): [Masters Capstone PowerPoint Full.pptx](./Presentation/Masters%20Capstone%20PowerPoint%20Full.pptx)
+- Architecture Diagram: [Privacy-First Surveillance Architecture](./Diagrams/Architecture%20Diagram.png)
 
 ---
 
