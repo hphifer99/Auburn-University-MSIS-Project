@@ -71,14 +71,13 @@ Firewall logging and traffic inspection were used to verify that outbound camera
 
 ## Disclaimer
 
-This repository contains academic project documentation only. It does not provide a production-ready surveillance product or installation scripts. Network addresses, credentials, and identifying details have been removed or anonymized. 
-
-AI was used to help draft the report, draft this README file, and conduct some research for the project.
+This repository contains academic project documentation only. It does not provide a production-ready surveillance product or installation scripts. Network addresses, credentials, and identifying details have been removed or anonymized.   
+AI was used to help draft the report, draft this README file, and assist with conducting some of the research for the project.
 
 ---
 
 ## Author
 
 Hayden Phifer  
-Master of Science in Information Systems Management, Graduate Certificate Cybersecurity
+Master of Science in Information Systems Management, Graduate Certificate Cybersecurity  
 Project focus areas: cybersecurity, network security, privacy-preserving systems
